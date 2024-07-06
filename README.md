@@ -19,7 +19,7 @@ Instructions on how to install and set up the project.
 git clone https://github.com/yourusername/yourproject.git
 cd yourproject
 npm install
-
+```
 
 ## Usage
 
@@ -27,3 +27,4 @@ Instructions on how to install and set up the project.
 
 ```bash
 npm start
+```
